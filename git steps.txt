@@ -1,0 +1,28 @@
+git init
+
+git add (to add a file)
+
+git status (to check what's going on)
+
+git commit -m (to add a commit message - purpose-to describe the code)
+
+
+
+if with README file-
+git clone (copy paste the link from git hub)
+ls (to see directoryof eskwelabs folder)
+cd 
+code . (will open vscode)
+
+
+
+
+git add 
+git commi
+git push
+
+
+
+
+1. inlcude a goal
+
